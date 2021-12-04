@@ -1,0 +1,7 @@
+[http]
+	sslVerify = false
+[user]
+	email = hanfx@163.com
+	name = hanfx
+[core]
+	editor = vim

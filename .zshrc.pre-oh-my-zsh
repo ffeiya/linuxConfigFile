@@ -1,0 +1,2 @@
+export host="cat /etc/resolv.conf | grep nameserver | awk '{ print $2 }'"
+export http_proxy='http://$host:7890'
