@@ -1,0 +1,8 @@
+*.* 
+!.gitconfig
+!.zshrc
+!.zshrc.pre-oh-my-zsh
+!proxy.sh
+!.gitignore
+out
+.oh-my-zsh
